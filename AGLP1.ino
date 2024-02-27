@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "EtecIoT";
-const char* password = "etecjb*123";
+const char* ssid     = "nome da rede";
+const char* password = "senha da rede";
 
-String newHostname = "AGLP";
+String newHostname = "nome do esp";
 
 void setup() {
 
